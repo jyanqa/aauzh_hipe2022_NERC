@@ -1,5 +1,5 @@
 # Code for HIPE-2022 Shared Task Submission
-*Codebase of the Working Note Paper [Exploring Transformers for Historical Named Entity Recognition](http://ceur-ws.org/Vol-3180/paper-86.pdf)*
+*Codebase of the Paper [Exploring Transformers for Historical Named Entity Recognition](http://ceur-ws.org/Vol-3180/paper-86.pdf)*
 
 ## Contents
 
