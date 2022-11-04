@@ -1,7 +1,22 @@
 # Code for HIPE-2022 Shared Task Submission
-*Codebase of the Paper [Exploring Transformers for Historical Named Entity Recognition](http://ceur-ws.org/Vol-3180/paper-86.pdf)*
+*Codebase of the Paper [Exploring Transformers for Historical Named Entity Recognition](http://ceur-ws.org/Vol-3180/paper-86.pdf)* by Anja Ryser*, Quynh Anh Nguyen*, Niclas Bodenmann*, Shih-Yun Chen*
 
-## Contents
+To cite the paper, use the BibTex below:
+```
+@inproceedings{RyserEtAl:CLEF2022,
+title = {Exploring Transformers for Multilingual Historical Named Entity Recognition},
+author = {Anja Ryser* and Quynh Anh Nguyen* and Niclas Bodenmann* and Shih-Yun Chen*},
+booktitle = "Proceedings of the Working Notes of CLEF 2022 - Conference and Labs of the Evaluation Forum",
+    month = Sep,
+    year = "2022",
+    address = "Bologna, Italy",
+    publisher = "CEUR-WS",
+pages = {1090--1108},
+url = {http://ceur-ws.org/Vol-3180/#paper-86},
+crossref = {CLEF2022},
+}
+```
+## Structures
 
 **Models**: The code we used to train the different models for the different datasets.
 
